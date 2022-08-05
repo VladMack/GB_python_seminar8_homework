@@ -1,0 +1,8 @@
+id;name;surname;phone
+2;Semen;Efremov;1234562
+1;Ivan;Ivanov;1234561
+3;Andrew;Tarasov;1234563
+4;Tatyana;Medvedeva;1234564
+5;Samuil;Khorev;1234565
+6;Sergey;Golubev;1234566
+7;Olga;Snejnaya;1234567

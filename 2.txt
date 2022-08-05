@@ -1,0 +1,8 @@
+id;par_id;name;surname;bd;class
+1;1;Egor;Ivanov;01.08.2015;1a
+2;3;Ivan;Tarasov;01.08.2015;1a
+3;4;Masha;Medvedeva;01.08.2015;1a
+4;5;Artem;Khorev;01.08.2015;1a
+6;6;Ira;Golubeva;02.08.2012;4b
+5;1;Misha;Ivanov;02.08.2012;4b
+7;7;Trophim;Degtyarev;02.08.2012;4b
